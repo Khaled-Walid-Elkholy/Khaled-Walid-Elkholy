@@ -1,8 +1,7 @@
-<h3 align="center"> 
-  Hi there 👋, I'm  Khaled Walid 
-</h3>
+<h3 align="center";> Hi there 👋, I'm  Khaled Walid </h3>
 <!--
 **Khaled-Walid-Elkholy/Khaled-Walid-Elkholy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <img src="https://slackmojis.com/emojis/10387-spring-boot/download" alt="">
 
   
 
