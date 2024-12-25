@@ -2,7 +2,7 @@
 <!--
 **Khaled-Walid-Elkholy/Khaled-Walid-Elkholy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
     -->
-    <img  alt="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-mastery-unleashing-the-power-of-programming%2F&psig=AOvVaw1HgAC_wmrxJpbnRPmRkJsE&ust=1735242162923000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiykoT31sOKAxXKQEEAHQZrGrYQjRx6BAgAEBk](https://miro.medium.com/v2/resize:fit:1400/1*vFiGOTV1S8yz0RTIQteTjw.png)">
+    <img  alt="https://miro.medium.com/v2/resize:fit:1400/1*vFiGOTV1S8yz0RTIQteTjw.png">
     JAVA - Spring
 
   
