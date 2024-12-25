@@ -2,7 +2,7 @@
 <!--
 **Khaled-Walid-Elkholy/Khaled-Walid-Elkholy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
     -->
-    <img  alt="https://miro.medium.com/v2/resize:fit:1400/1*vFiGOTV1S8yz0RTIQteTjw.png">
+    <img  alt="">
     JAVA - Spring
 
   
